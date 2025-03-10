@@ -21,7 +21,7 @@ The system aims to optimize air traffic flow by ensuring that aircraft are dynam
 
 **Backend -** Django
 
-**Database -** SQLAlchemy (SQLite3)
+**Database -** SQLite3
 
 **Machine Learning Model -** LSTM (Long Short-Term Memory)
 
