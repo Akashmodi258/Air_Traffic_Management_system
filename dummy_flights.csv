@@ -1,0 +1,11 @@
+Flight_ID,Flight_Type,City,Airport,Weather_Condition,Airport_Capacity,Date,Time,Scheduled_DateTime,Delayed_Time
+DF644,International,Bangalore,DEL,Stormy,91,2025-04-25,08:53:13,2025-04-25 08:53:13,35
+DF669,Domestic,Mumbai,HYD,Stormy,250,2025-04-25,00:58:28,2025-04-25 00:58:28,40
+DF447,International,Delhi,BLR,Stormy,137,2025-03-28,14:35:25,2025-03-28 14:35:25,0
+DF390,Domestic,Delhi,HYD,Stormy,250,2025-04-22,04:36:10,2025-04-22 04:36:10,14
+DF634,International,Mumbai,BLR,Sunny,137,2025-03-18,18:03:41,2025-03-18 18:03:41,54
+DF315,Domestic,Delhi,DEL,Foggy,91,2025-04-01,16:58:48,2025-04-01 16:58:48,30
+DF382,Domestic,Mumbai,BOM,Stormy,168,2025-04-25,20:13:44,2025-04-25 20:13:44,0
+DF646,International,Bangalore,HYD,Rainy,250,2025-03-11,01:15:58,2025-03-11 01:15:58,0
+DF481,International,Chennai,PNQ,Rainy,158,2025-04-08,11:20:40,2025-04-08 11:20:40,10
+DF564,Domestic,Mumbai,GOI,Stormy,126,2025-04-24,13:48:17,2025-04-24 13:48:17,3
